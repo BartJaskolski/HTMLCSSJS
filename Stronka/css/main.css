@@ -1,0 +1,63 @@
+body
+{
+	background-image: url("../img/mochaGrunge.png");
+	/* Background pattern from subtlepatterns.com */
+	color:white;
+	margin:  0;
+}
+.container
+{
+	background-color:white;
+	width:  900px;
+	height: 500px;
+	margin: auto;
+}
+.logo
+{
+	background-color:#666666;
+	width:  900px;
+	height: 60px;
+}
+.menu
+{
+	background-color:black;
+	width:  900px;
+	height: 40px;
+}
+.nav
+{
+	background-color:coral;
+	width:  250px;
+	height: 300px;
+	float:left;
+}
+.content
+{
+	background-color:skyblue;
+	width:  450px;
+	height: 300px;
+	float:left;
+	text-align:center;
+}
+.sidebar
+{
+	background-color:teal;
+	width:  200px;
+	height: 300px;
+	float:left;
+}
+.footer
+{
+	background-color:rebeccapurple;
+	width:  900px;
+	height: 100px;
+	clear: both;
+}
+.cos
+{
+	width:  50%;
+	height: 5%;
+	margin:0 auto;
+	background-color:rebeccapurple;
+	display:inline-block;
+}
